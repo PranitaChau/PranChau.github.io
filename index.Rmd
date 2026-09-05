@@ -1,0 +1,24 @@
+---
+title: "Pranita Chaudhury"
+image: "fdoc_pic.jpeg"
+color1: "#112305"
+color2: "#e1edf7"
+angle: 150
+links:
+  - label: GitHub
+    url: "https://github.com/PranitaChau"
+output:
+  postcards::onofre
+---
+ 
+Hi! My name is Pranita Chaudhury and I'm a senior Statistics and Data Science major at UT Austin. I used to live in Toronto, but now am in Round Rock, Tx with my two dogs. In my free time I love trying new matcha/coffee shops and restaurants (just downloaded Beli so super excited to try that out), and also work as a stats grader on campus.
+
+## Favorite Matcha Places
+
+- Kriya Cafe
+- Sweetwaters Coffee & Tea
+- Leche
+
+```{r}
+Sys.time() 
+```
